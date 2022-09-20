@@ -1,4 +1,4 @@
-FROM hendrikmaus/nomad-cli:0.10.1
+FROM hendrikmaus/nomad-cli:1.2.3
 
 RUN apk update && apk add bash gettext
 
