@@ -42,7 +42,8 @@ echo ls -la /github/home
 ls -la /github/home
 echo ls -la /github/workflow
 ls -la /github/workflow
-
+echo ls -la /github/file_commands
+ls -la /github/file_commands
 echo pwd
 pwd
 
