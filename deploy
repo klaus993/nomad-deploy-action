@@ -32,8 +32,17 @@ echo ls -la
 ls -la
 echo ls -la /
 ls -la /
+echo ls -la /nomad-deploy
+ls -la /nomad-deploy
+echo ls -la /root
+ls -la /root
 echo ls -la /github
 ls -la /github
+echo ls -la /github/home
+ls -la /github/home
+echo ls -la /github/workflow
+ls -la /github/workflow
+
 echo pwd
 pwd
 
