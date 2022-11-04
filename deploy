@@ -28,7 +28,13 @@ produce_replaced_nomad_file() {
   fi
 }
 
+echo ls -la
 ls -la
+echo ls -la /
+ls -la /
+echo ls -la /github
+ls -la /github
+echo pwd
 pwd
 
 if [ -f "$nomad_job_file_path" ]; then
